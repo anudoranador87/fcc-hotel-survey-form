@@ -13,6 +13,19 @@ This is a responsive survey form designed for a fictional hotel guest experience
 * **HTML5:** For the core structure and accessibility.
 * **CSS3:** For custom styling, including box-shadows and rounded borders.
 
+
+18/02/2026. * **UI Enhancements:** 
+Custom Form Elements
+The standard browser radio buttons have been replaced with a custom-styled version for a more modern and consistent look across all browsers.
+
+Features
+Custom Indicators: Replaced the default dot with a custom symbol (◆).
+
+Pseudo-element Styling: Used ::before and ::after to create the UI without adding unnecessary HTML tags.
+
+Interactive States: Added smooth transitions for :checked, :hover, and :focus states.
+
+
 ## 🎓 Certification Context
 This project is part of the **Meta Full Stack Developer** professional path, specifically focusing on the **HTML and CSS in Depth** and **Version Control** modules.
 
